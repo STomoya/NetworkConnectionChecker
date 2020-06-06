@@ -6,7 +6,7 @@ Checks if the network can connect to the Internet.
 ## Motivation
 
 My Wi-Fi stops frequently so I wanted to know when I can use it (or not).  
-So I diceded to create a progran which checks the connection.
+So I decided to create a progran which checks the connection.
 
 ## Requirements
 
